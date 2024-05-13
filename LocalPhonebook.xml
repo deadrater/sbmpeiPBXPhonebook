@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vp_contact>
+  <root_group>
+    <group display_name="Администрация"/>
+    <group display_name="Кафедра ЭЭС"/>
+    <group display_name="Библиотека"/>
+    <group display_name="Кафедра ИТЭУ"/>
+    <group display_name="Кафедра Гум. Наук"/>
+    <group display_name="Комендант ГУК"/>
+    <group display_name="Отдел ремонта и эксплуатации"/>
+    <group display_name="Кафедра ТМО"/>
+    <group display_name="Учебное управление"/>
+    <group display_name="Кафедра ПТЭ"/>
+    <group display_name="Военная кафедра"/>
+    <group display_name="Вахта"/>
+    <group display_name="Лаборатория Информатизации"/>
+  </root_group>
+  <root_contact>
+    <contact group_id_name="Администрация" display_name="Приемная директора" office_number="101" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Кафедра ЭЭС" display_name="Солпов Р.В." office_number="104" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Кафедра ЭЭС" display_name="Дубровская Т.И." office_number="116" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Библиотека" display_name="Зам. Зав. Библиотекой" office_number="201" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Библиотека" display_name="Отдел эл. Ресурсов" office_number="203" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Библиотека" display_name="Иванова Л.А." office_number="204" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Кафедра ИТЭУ" display_name="Зедаина А.В." office_number="210" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Кафедра Гум. Наук" display_name="Каршинова Анастасия" office_number="220" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Комендант ГУК" display_name="Доронова С.Н." office_number="231" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Отдел ремонта и эксплуатации" display_name="Ермачков " office_number="315" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Кафедра ТМО" display_name="Кладко Н.Н." office_number="319" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Администрация" display_name="Балабаев А.Е." office_number="329" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Учебное управление" display_name="Заоч. Отделение" office_number="413" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Кафедра ПТЭ" display_name="Галковский В.А." office_number="426" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Военная кафедра" display_name="Прошлецов А.А." office_number="501" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Военная кафедра" display_name="Щербаков Б.А." office_number="502" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Военная кафедра" display_name="Делопроизводство" office_number="503" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Военная кафедра" display_name="Дежурная ВВС" office_number="504" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Военная кафедра" display_name="Преподавательская" office_number="505" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Военная кафедра" display_name="ОУТА" office_number="506" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Вахта" display_name="Вахта ГУК" office_number="611" mobile_number="" other_number="" default_photo="Resource:"/>
+    <contact group_id_name="Лаборатория Информатизации" display_name="Техчасть" office_number="666" mobile_number="" other_number="" default_photo="Resource:"/>
+  </root_contact>
+</vp_contact>
