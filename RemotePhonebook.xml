@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Yealink</Title>
+  <Menu Name="Администрация">
+    <Unit Name="Приемная директора" Phone1="101" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Балабаев А.Е." Phone1="329" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Кафедра ЭЭС">
+    <Unit Name="Солпов Р.В." Phone1="104" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Дубровская Т.И." Phone1="116" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Библиотека">
+    <Unit Name="Зам. Зав. Библиотекой" Phone1="201" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Отдел эл. Ресурсов" Phone1="203" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Иванова Л.А." Phone1="204" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Кафедра ИТЭУ">
+    <Unit Name="Зедаина А.В." Phone1="210" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Кафедра Гум. Наук">
+    <Unit Name="Каршинова Анастасия" Phone1="220" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Комендант ГУК">
+    <Unit Name="Доронова С.Н." Phone1="231" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Отдел ремонта и эксплуатации">
+    <Unit Name="Ермачков " Phone1="315" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Кафедра ТМО">
+    <Unit Name="Кладко Н.Н." Phone1="319" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Учебное управление">
+    <Unit Name="Заоч. Отделение" Phone1="413" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Кафедра ПТЭ">
+    <Unit Name="Галковский В.А." Phone1="426" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Военная кафедра">
+    <Unit Name="Прошлецов А.А." Phone1="501" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Щербаков Б.А." Phone1="502" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Делопроизводство" Phone1="503" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Дежурная ВВС" Phone1="504" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Преподавательская" Phone1="505" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="ОУТА" Phone1="506" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Вахта">
+    <Unit Name="Вахта ГУК" Phone1="611" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+  <Menu Name="Лаборатория Информатизации">
+    <Unit Name="Техчасть" Phone1="666" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>
